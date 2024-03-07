@@ -5,33 +5,28 @@ layout: homepage
 ## About Me
 
 Hi! I'm now a research assistant supervised by Prof. <a href="https://vlislab22.github.io/vlislab/linwang.html">Lin Wang</a> at HKUST.
-I obtained my B.ENG in Artificial Intelligence from Northeastern University (NEU).
-My research interests include Multi-modal Learning, 3D Vision, and Generation Models.
 
+Currently, I am interested in Event-based vision and Multi-modal learning.
+
+Prior to HKUST, I obtained my B. Eng. and M. Eng. major in Electronic Science and Technology and Optical Engineering from the University of Electronic Science and Technology of China (UESTC) respectively, where I focused on Semantic Segmentation and Instance Segmentation.
 
 {% include_relative _includes/projects.md %}
 
 
 ## Honors and Awards
 
-- *2023.07* &emsp;**Outstanding Graduation Dissertation (<2%)**, Northeastern University. 
-- *2022.09* &emsp;**Outstanding Students Scholarship**, Northeastern University. 
-- *2021.09* &emsp;**Outstanding Students Scholarship**, Northeastern University. 
-- *2020.09* &emsp;**Outstanding Students Scholarship**, Northeastern University.
+- *2022.06* &emsp;Finalist Prize of Image Denoising Track (Top1.5%), ZTE Algorithm Competition.
+- *2020-2022* &emsp;First Prize of Postgraduate Academic Scholarship (Top 10%), UESTC. 
+- *2018.10* &emsp;Outstanding Undergraduate International Exchange Program Scholarship(Top 2), CSC. 
+- *2018.08* &emsp;First Prize of National University Mathematical Modeling Competition(Top 10), UESTC.
+- *2017-2019* &emsp;First Class Scholarship for Outstanding Undergraduate Students(Top 15%), UESTC.
 
 
-## Internships
-
-- **[Oct. 2021 ‑ Dec. 2022]**, **THUNLP**, Tsinghua University
-  - Supervisor: Zhenghao Liu, Chenyan Xiong, and Zhiyuan Liu
-- **[Jun. 2021 ‑ Sep. 2021]**, **NEUNLP**, Northeastern University
-  - Supervisor: Tong Xiao
-
-
-{% include_relative _includes/services.md %}
-
-
-
+## Education
+- 2020.06 - 2023.06, M.E., University of Electronic Science and Technology of China, Chengdu, China
+- 2016.09 - 2020.06, B.E., University of Electronic Science and Technology of China, Chengdu, China
+- 2019.02 - 2019.07, Exchange semester, Karlsruhe University of Applied Sciences, Karlsruhe, German
+- 2013.09 - 2016.06, H.S., The First High School of Changsha, Changsha, China
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Jd8OzMhdKMK1K5bnZn9Yn3pFyeY2ahWgCA6In0frwYc&cl=ffffff&w=a"></script>
 
