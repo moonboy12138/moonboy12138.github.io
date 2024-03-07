@@ -16,10 +16,9 @@ Prior to HKUST, I obtained my B. Eng. and M. Eng. major in Electronic Science an
 ## Honors and Awards
 
 - 2022.06, Finalist Prize of Image Denoising Track (Top1.5%), ZTE Algorithm Competition.
-- 2020-2022, First Prize of Postgraduate Academic Scholarship (Top 10%), UESTC. 
-- *2018.10, Outstanding Undergraduate International Exchange Program Scholarship(Top 2), CSC. 
-- *2018.08, First Prize of National University Mathematical Modeling Competition(Top 10), UESTC.
-- *2017-2019, First Class Scholarship for Outstanding Undergraduate Students(Top 15%), UESTC.
+- 2018.10, Outstanding Undergraduate International Exchange Program Scholarship(Top 2), CSC. 
+- 2018.08, First Prize of National University Mathematical Modeling Competition(Top 10), UESTC.
+- 2017-2019, First Class Scholarship for Outstanding Undergraduate Students(Top 15%), UESTC.
 
 
 ## Education
