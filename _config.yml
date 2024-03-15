@@ -32,7 +32,7 @@ github_link: https://github.com/jiazhou-garland
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/zhoujiazhou.jpg
+avatar: ./assets/img/pic1.jpg
 # logo: ./assets/img/logo_hkust.png
 favicon: ./assets/img/logo_hkust.png
 favicon_dark: ./assets/img/logo_hkust.png
