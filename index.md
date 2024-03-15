@@ -4,11 +4,11 @@ layout: homepage
 
 ## About Me
 
-Hi! I'm now a research assistant supervised by Prof. <a href="https://vlislab22.github.io/vlislab/linwang.html">Lin Wang</a> at HKUST.
+Hi! I'm now a research assistant supervised by Prof. <a href="https://vlislab22.github.io/vlislab/linwang.html">Lin Wang</a> at HKUST(GZ).
 
 Currently, I am interested in Event-based vision and Multi-modal learning.
 
-Prior to HKUST, I obtained my B. Eng. and M. Eng. major in Electronic Science and Technology and Optical Engineering from the University of Electronic Science and Technology of China (UESTC) respectively, where I focused on Semantic Segmentation and Instance Segmentation.
+Prior to HKUST, I obtained my B. Eng. and M. Eng. major in Electronic Science and Technology and Optical Engineering from the University of Electronic Science and Technology of China (UESTC) respectively. During my post-graduate study life, I focused on Semantic Segmentation and Instance Segmentation.
 
 {% include_relative _includes/projects.md %}
 
