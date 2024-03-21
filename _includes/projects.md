@@ -13,7 +13,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="">ExACT: Language-guided Conceptual Reasoning and Uncertainty Estimation for Event-based Action Recognition and More</a></div>
+    <div class="title"><a href="https://arxiv.org/pdf/2403.12534.pdf">ExACT: Language-guided Conceptual Reasoning and Uncertainty Estimation for Event-based Action Recognition and More</a></div>
     <div class="author"><strong>Jiazhou Zhou</strong>, Xu Zheng,Yuanhuiyi Lyu, Lin Wang</div>
     <div class="periodical"><em>The IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2024.</em></div>
     <div class="links">
@@ -33,7 +33,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="">UniBind: LLM-Augmented Unified and Balanced Representation Space to Bind Them All</a></div>
+    <div class="title"><a href="https://arxiv.org/pdf/2403.12532.pdf">UniBind: LLM-Augmented Unified and Balanced Representation Space to Bind Them All</a></div>
     <div class="author">Yuanhuiyi Lyu, Xu Zheng, <strong>Jiazhou Zhou</strong>, Lin Wang</div>
     <div class="periodical"><em>The IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2024.</em></div>
     <div class="links">
