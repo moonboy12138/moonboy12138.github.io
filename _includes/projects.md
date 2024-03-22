@@ -35,6 +35,7 @@
     <div class="periodical"><em>IEEE Transactions on Pattern Analysis and Machine Intelligence <strong>(TPMAI)</strong>.</em></div>
     <div class="links">
     <a href="https://arxiv.org/pdf/2311.07113.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/danfenghong/IEEE_TPAMI_SpectralGPT" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
     </div>
   </div>
 </div>
