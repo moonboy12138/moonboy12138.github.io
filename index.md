@@ -4,28 +4,25 @@ layout: homepage
 
 ## About Me
 
-Hi! I'm now a research assistant supervised by Prof. <a href="https://vlislab22.github.io/vlislab/linwang.html">Lin Wang</a> at HKUST(GZ).
+Hi! I'm now a PhD student advised by Prof. <a href="https://sites.google.com/view/danfeng-hong">Danfeng Hong</a> at Aerospace Information Research Institute, Chinese Academy of Sciences (CAS).
 
-Currently, I am interested in Event-based vision and Multi-modal learning.
+Currently, I am interested in Remote Sensing Foundation Models.
 
-Prior to HKUST, I obtained my B. Eng. and M. Eng. major in Electronic Science and Technology and Optical Engineering from the University of Electronic Science and Technology of China (UESTC) respectively. During my post-graduate study life, I focused on Semantic Segmentation and Instance Segmentation.
+Prior to CAS, I obtained my B. Eng. major in Information Engineering from the University of Electronic Science and Technology of China (UESTC). During my post-graduate study life, I focused on High-Dimensional Data Analysis and Face Recognition.
 
 {% include_relative _includes/projects.md %}
 
-
-## Honors and Awards
-
-- 2022.06, Finalist Prize of Image Denoising Track (Top1.5%), ZTE Algorithm Competition.
-- 2018.10, Outstanding Undergraduate International Exchange Program Scholarship(Top 2), CSC. 
-- 2018.08, National University Mathematical Modeling Competition(Top 10).
+[^_^]:
+      ## Honors and Awards
+      
+      - 2022.06, Finalist Prize of Image Denoising Track (Top1.5%), ZTE Algorithm Competition.
+      - 2018.10, Outstanding Undergraduate International Exchange Program Scholarship(Top 2), CSC. 
+      - 2018.08, National University Mathematical Modeling Competition(Top 10).
 
 
 ## Education
-- 2020.06 - 2023.06, M.E., UESTC, China
-- 2016.09 - 2020.06, B.E., UESTC, China
-- 2019.02 - 2019.07, Exchange semester, Karlsruhe University of Applied Sciences, German
-- 2013.09 - 2016.06, H.S., The First High School of Changsha, Changsha, China
+- 2019.09 - 2023.06, B.E., UESTC, China
 
-Last modified time: 2024/3/7
+Last modified time: 2024/3/22
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=3LGrgmyYI_ZwG_L9hAge87EruQozTUiUfLqacVMTNd0&cl=ffffff&w=a"></script>
