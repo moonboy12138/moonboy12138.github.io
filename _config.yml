@@ -6,11 +6,11 @@ title: Xuyang Li
 position: RA
 # subposition: Chair of the Chinese Student and Scholar Association (CSSA)
 # subposition_link: https://nyu-medicine-cssa.github.io
-affiliation: Hong Kong University of Science and Technology (HKUST)
-subaffiliation: VLIS LAB  
+affiliation: Aerospace Information Research Institute, Chinese Academy of Sciences (CAS)
+# subaffiliation: VLIS LAB  
 # affiliation_link: https://www.nyu.edu
-subaffiliation_link: https://vlislab22.github.io/vlislab/
-email: jiazhou.garland@gmail.com
+# subaffiliation_link: https://vlislab22.github.io/vlislab/
+email: lixuyang23@mails.ucas.ac.cn
 # address: 180 Madision Ave, Suite 5-31C, New York, NY 10016
 # address_link: https://goo.gl/maps/aQZfmiKjQmqbDsVY9
 
@@ -24,9 +24,9 @@ canonical: https://minimal-light-theme.yliu.me/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/citations?user=JQnsB8MAAAAJ&hl=en
-cv_link: assets/files/CV.pdf
-github_link: https://github.com/jiazhou-garland
+google_scholar: https://scholar.google.com/citations?user=SCHOLAR_ID&user=uzfZTTYAAAAJ
+# cv_link: assets/files/CV.pdf
+github_link: https://github.com/moonboy12138
 # linkedin: https://www.linkedin.com/in/hanchao-ted-zhang-670105b7/?locale=en_US
 # twitter: https://twitter.com/tedddddy_zhang
 
@@ -34,8 +34,8 @@ github_link: https://github.com/jiazhou-garland
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
 avatar: ./assets/img/pic1.jpg
 # logo: ./assets/img/logo_hkust.png
-favicon: ./assets/img/logo_hkust.png
-favicon_dark: ./assets/img/logo_hkust.png
+# favicon: ./assets/img/logo_hkust.png
+# favicon_dark: ./assets/img/logo_hkust.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
