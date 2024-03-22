@@ -8,7 +8,7 @@ Hi! I'm now a PhD student advised by Prof. <a href="https://sites.google.com/vie
 
 Currently, I am interested in Remote Sensing Foundation Models.
 
-Prior to CAS, I obtained my B. Eng. major in Information Engineering from the University of Electronic Science and Technology of China (UESTC). During my post-graduate study life, I focused on High-Dimensional Data Analysis and Face Recognition.
+Prior to CAS, I obtained my B. Eng. major in Information Engineering from the University of Electronic Science and Technology of China (UESTC). During my undergraduate study life, I focused on High-Dimensional Data Analysis and Face Recognition.
 
 {% include_relative _includes/projects.md %}
 
