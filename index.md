@@ -15,6 +15,7 @@ Prior to CAS, I obtained my B. Eng. major in Information Engineering from the Un
 
 ## Education
 - 2019.09 - 2023.06, B.E., University of Electronic Science and Technology of China (UESTC)
+- 2023.09 - present, PhD student, University of Chinese Academy of Sciences (UCAS)
 
 
 <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=duRtRL1M3vKbQbv2gJxJ5ujEkeN9tCYEeOuSE7UuYVk&cl=ffffff&w=a"></script>
