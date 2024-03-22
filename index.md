@@ -12,13 +12,6 @@ Prior to CAS, I obtained my B. Eng. major in Information Engineering from the Un
 
 {% include_relative _includes/projects.md %}
 
-[^_^]:
-      ## Honors and Awards
-      
-      - 2022.06, Finalist Prize of Image Denoising Track (Top1.5%), ZTE Algorithm Competition.
-      - 2018.10, Outstanding Undergraduate International Exchange Program Scholarship(Top 2), CSC. 
-      - 2018.08, National University Mathematical Modeling Competition(Top 10).
-
 
 ## Education
 - 2019.09 - 2023.06, B.E., UESTC, China
