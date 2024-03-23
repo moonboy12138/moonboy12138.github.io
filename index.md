@@ -19,4 +19,5 @@ Prior to CAS, I obtained my B. Eng. major in Information Engineering from the Un
 
 
 
-<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=duRtRL1M3vKbQbv2gJxJ5ujEkeN9tCYEeOuSE7UuYVk&cl=ffffff&w=a"></script>
+<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=300&t=tt&d=duRtRL1M3vKbQbv2gJxJ5ujEkeN9tCYEeOuSE7UuYVk&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
+
