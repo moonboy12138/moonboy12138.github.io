@@ -8,11 +8,11 @@ Hi! I'm now a PhD student advised by Prof. <a href="https://sites.google.com/vie
 
 Prior to CAS, I obtained my B. Eng. degree in Information Engineering from the University of Electronic Science and Technology of China (UESTC). During my undergraduate study life, I focused on High-Dimensional Data Analysis and Face Recognition.
 
-{% include_relative _includes/projects.md %}
-
 
 ## Research Interests
 Currently, I am interested in Multimodal Remote Sensing and Large Foundation Models.
+
+{% include_relative _includes/projects.md %}
 
 
 ## Education
