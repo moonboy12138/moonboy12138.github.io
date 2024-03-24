@@ -6,11 +6,13 @@ layout: homepage
 
 Hi! I'm now a PhD student advised by Prof. <a href="https://sites.google.com/view/danfeng-hong">Danfeng Hong</a> at the Aerospace Information Research Institute, Chinese Academy of Sciences (CAS).
 
-Currently, I am interested in Remote Sensing Foundation Models.
-
 Prior to CAS, I obtained my B. Eng. degree in Information Engineering from the University of Electronic Science and Technology of China (UESTC). During my undergraduate study life, I focused on High-Dimensional Data Analysis and Face Recognition.
 
 {% include_relative _includes/projects.md %}
+
+
+## Research Interests
+Currently, I am interested in Multimodal Remote Sensing and Large Foundation Models.
 
 
 ## Education
