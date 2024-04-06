@@ -13,7 +13,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers">S2MAE: A Spatial-Spectral Pretraining Foundation Model for Spectral Remote Sensing Data</a></div>
     <div class="author"><strong>Xuyang Li</strong>, Danfeng Hong, Jocelyn Chanussot</div>
-    <div class="periodical"><em>The IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2024.</em></div>
+    <div class="periodical"><em>The IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2024, <strong>Oral, (3.3%)</strong></em></div>
     <div class="links">
     </div>
   </div>
