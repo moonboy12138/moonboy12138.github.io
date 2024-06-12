@@ -16,6 +16,8 @@
     <div class="author"><strong>Xuyang Li</strong>, Danfeng Hong, Jocelyn Chanussot</div>
     <div class="periodical"><em>The IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2024, <strong>(Oral:3.3%)</strong></em></div>
     <div class="links">
+    <a href="https://cvpr.thecvf.com/virtual/2024/poster/29390" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Homepage</a>
+      <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Li_S2MAE_A_Spatial-Spectral_Pretraining_Foundation_Model_for_Spectral_Remote_Sensing_CVPR_2024_paper.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
   </div>
 </div>
