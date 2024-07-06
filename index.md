@@ -10,7 +10,7 @@ Prior to CAS, I obtained my B. Eng. degree in Information Engineering from the U
 
 
 ## Research Interests
-Currently, I am interested in Multimodal Remote Sensing and Large Foundation Models.
+Currently, I am interested in Multimodal Foundation Models and Large Vision Foundation Models.
 
 Looking for strong graduate/undergraduate students to collaborate. Please reach out if you are interested.
 
