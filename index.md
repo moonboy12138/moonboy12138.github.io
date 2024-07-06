@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hi! I'm now a PhD student advised by Prof. <a href="https://sites.google.com/view/danfeng-hong">Danfeng Hong</a> at the Aerospace Information Research Institute, Chinese Academy of Sciences (CAS).
+Hi! I'm now researching at the Aerospace Information Research Institute, Chinese Academy of Sciences (CAS).
 
 Prior to CAS, I obtained my B. Eng. degree in Information Engineering from the University of Electronic Science and Technology of China (UESTC). During my undergraduate study life, I focused on High-Dimensional Data Analysis and Face Recognition.
 
@@ -18,8 +18,7 @@ Looking for strong graduate/undergraduate students to collaborate. Please reach 
 
 
 ## Education
-- 2023.09 - present, PhD student, University of Chinese Academy of Sciences (UCAS)
-- 2019.09 - 2023.06, B.E., University of Electronic Science and Technology of China (UESTC)
+- 2019.09 - 2023.07, B.E., University of Electronic Science and Technology of China (UESTC)
 
 
 
