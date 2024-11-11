@@ -4,15 +4,13 @@ layout: homepage
 
 ## About Me
 
-Hi! I'm now researching at the Aerospace Information Research Institute, Chinese Academy of Sciences (CAS).
+Hi! My name is Xuyang Li. I'm now researching at the Aerospace Information Research Institute, Chinese Academy of Sciences (CAS).
 
 Prior to CAS, I obtained my B. Eng. degree in Information Engineering from the University of Electronic Science and Technology of China (UESTC). During my undergraduate study life, I focused on High-Dimensional Data Analysis and Face Recognition.
 
 
 ## Research Interests
 Currently, I am interested in Multimodal Foundation Models and Large Vision Foundation Models.
-
-Looking for strong graduate/undergraduate students to collaborate. Please reach out if you are interested.
 
 {% include_relative _includes/projects.md %}
 
