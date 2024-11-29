@@ -4,9 +4,9 @@ layout: homepage
 
 ## About Me
 
-Hi! My name is Xuyang Li. I'm now researching at the Aerospace Information Research Institute, Chinese Academy of Sciences (CAS).
+Hi! My name is Xuyang Li. I'm now researching at the University of Chinese Academy of Sciences (UCAS).
 
-Prior to CAS, I obtained my B. Eng. degree in Information Engineering from the University of Electronic Science and Technology of China (UESTC). During my undergraduate study life, I focused on High-Dimensional Data Analysis and Face Recognition.
+Prior to UCAS, I obtained my B. Eng. degree in Information Engineering from the University of Electronic Science and Technology of China (UESTC). During my undergraduate study life, I focused on High-Dimensional Data Analysis and Face Recognition.
 
 
 ## Research Interests
