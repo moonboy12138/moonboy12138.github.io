@@ -4,8 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hi! My name is Xuyang Li. I'm now researching at the University of Chinese Academy of Sciences (UCAS).
-
+Hi! My name is Xuyang Li. I'm now a a PhD student at the University of Chinese Academy of Sciences (UCAS), advised by Prof. <a href="https://sites.google.com/view/danfeng-hong">Danfeng Hong</a>.
 Prior to UCAS, I obtained my B. Eng. degree in Information Engineering from the University of Electronic Science and Technology of China (UESTC). During my undergraduate study life, I focused on High-Dimensional Data Analysis and Face Recognition.
 
 
@@ -16,6 +15,7 @@ Currently, I am interested in Multimodal Foundation Models and Large Vision Foun
 
 
 ## Education
+- 2023.09 - Present, PhD student, University of Chinese Academy of Sciences (UCAS)
 - 2019.09 - 2023.07, B.E., University of Electronic Science and Technology of China (UESTC)
 
 
