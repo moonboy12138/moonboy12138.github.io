@@ -31,8 +31,8 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://www.sciencedirect.com/science/article/pii/S1566253525004075">SeaMo: A Multi-Seasonal and Multimodal Remote Sensing Foundation Model</a></div>
-    <div class="author"><strong>Xuyang Li</strong>,  Chenyu Li, Gemine Vivone, Danfeng Hong</div>
-    <div class="periodical"><em>Elsevier Information Fusion <strong>(INFFUS)</em></div>
+    <div class="author"><strong>Xuyang Li</strong>, Chenyu Li, Gemine Vivone, Danfeng Hong</div>
+    <div class="periodical"><em>Elsevier Information Fusion <strong>(INFFUS)</strong>.</em></div>
     <div class="links">
       <a href="https://www.sciencedirect.com/science/article/pii/S1566253525004075" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Homepage</a>
       <a href="https://arxiv.org/abs/2412.19237#:~:text=Therefore%2C%20in%20this%20work%2C%20we%20propose%20SeaMo%2C%20a,multi-seasonal%20and%20multimodal%20information%20in%20the%20RS%20field." class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
