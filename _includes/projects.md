@@ -11,7 +11,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/pdf/2412.19237">FlexiMo: A Flexible Remote Sensing Foundation Model</a></div>
+    <div class="title"><a href="https://arxiv.org/abs/2503.23844">FlexiMo: A Flexible Remote Sensing Foundation Model</a></div>
     <div class="author"><strong>Xuyang Li</strong>,  Chenyu Li, Pedram Ghamisi, Danfeng Hong</div>
     <div class="periodical"><em>Arxiv</em></div>
     <div class="links">
@@ -30,7 +30,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/pdf/2412.19237">SeaMo: A Multi-Seasonal and Multimodal Remote Sensing Foundation Model</a></div>
+    <div class="title"><a href="https://www.sciencedirect.com/science/article/pii/S1566253525004075">SeaMo: A Multi-Seasonal and Multimodal Remote Sensing Foundation Model</a></div>
     <div class="author"><strong>Xuyang Li</strong>,  Chenyu Li, Gemine Vivone, Danfeng Hong</div>
     <div class="periodical"><em>Elsevier Information Fusion <strong>(INFFUS)</em></div>
     <div class="links">
