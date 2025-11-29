@@ -28,7 +28,7 @@
     <abbr class="badge">IGARSS 2025</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://ieeexplore.ieee.org/document/11242337">S2MAE: A Spatial-Spectral Pretraining Foundation Model for Spectral Remote Sensing Data</a></div>
+    <div class="title"><a href="https://ieeexplore.ieee.org/document/11242337">CrossPatch: A Flexible Patch Embedding Strategy for Foundation Models in Remote Sensing</a></div>
     <div class="author"><strong>Xuyang Li</strong>, Chenyu Li, Danfeng Hong</div>
     <div class="periodical"><em>2025 IEEE International Geoscience and Remote Sensing Symposium <strong>(IGARSS)</strong>, 2025, <strong>(Oral)</strong></em></div>
     <div class="links">
