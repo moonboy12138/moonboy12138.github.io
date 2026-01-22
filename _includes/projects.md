@@ -11,7 +11,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/abs/2512.17224">Any-Optical-Model: A Universal Foundation Model for Optical Remote Sensing</a></div>
     <div class="author"><strong>Xuyang Li</strong>, Chenyu Li, Danfeng Hong</div>
-    <div class="periodical"><em>The 40th Annual AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2026 </em></div>
+    <div class="periodical"><em>The 40th Annual AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2026. </em></div>
     <div class="links">
       <a href="https://arxiv.org/abs/2512.17224" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
@@ -28,7 +28,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://ieeexplore.ieee.org/document/11359569">FlexiMo: A Flexible Remote Sensing Foundation Model</a></div>
     <div class="author"><strong>Xuyang Li</strong>,  Chenyu Li, Pedram Ghamisi, Danfeng Hong, Jon Atli Benediktsson, Jocelyn Chanussot</div>
-    <div class="periodical"><em>IEEE Transactions on Geoscience and Remote Sensing</em></div>
+    <div class="periodical"><em>IEEE Transactions on Geoscience and Remote Sensing <strong>(TGRS)</strong>.</em></div>
     <div class="links">
       <a href="https://ieeexplore.ieee.org/document/11359569" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
@@ -45,7 +45,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://ieeexplore.ieee.org/document/11242337">CrossPatch: A Flexible Patch Embedding Strategy for Foundation Models in Remote Sensing</a></div>
     <div class="author"><strong>Xuyang Li</strong>, Chenyu Li, Danfeng Hong</div>
-    <div class="periodical"><em>IEEE International Geoscience and Remote Sensing Symposium <strong>(IGARSS)</strong>, 2025, <strong>(Oral)</strong></em></div>
+    <div class="periodical"><em>IEEE International Geoscience and Remote Sensing Symposium <strong>(IGARSS)</strong>, 2025, <strong>(Oral)</strong>.</em></div>
     <div class="links">
       <a href="https://ieeexplore.ieee.org/document/11242337" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
@@ -86,7 +86,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers">S2MAE: A Spatial-Spectral Pretraining Foundation Model for Spectral Remote Sensing Data</a></div>
     <div class="author"><strong>Xuyang Li</strong>, Danfeng Hong, Jocelyn Chanussot</div>
-    <div class="periodical"><em>IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2024, <strong>(Oral:3.3%)</strong></em></div>
+    <div class="periodical"><em>IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2024, <strong>(Oral:3.3%)</strong>.</em></div>
     <div class="links">
     <a href="https://cvpr.thecvf.com/virtual/2024/poster/29390" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Homepage</a>
       <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Li_S2MAE_A_Spatial-Spectral_Pretraining_Foundation_Model_for_Spectral_Remote_Sensing_CVPR_2024_paper.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
