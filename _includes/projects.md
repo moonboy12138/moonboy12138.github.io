@@ -31,6 +31,7 @@
     <div class="periodical"><em>IEEE Transactions on Geoscience and Remote Sensing <strong>(TGRS)</strong>.</em></div>
     <div class="links">
       <a href="https://ieeexplore.ieee.org/document/11359569" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/danfenghong/IEEE_TGRS_Fleximo" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
     </div>
   </div>
 </div>
@@ -70,6 +71,7 @@
     <div class="links">
       <a href="https://www.sciencedirect.com/science/article/pii/S1566253525004075" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Homepage</a>
       <a href="https://arxiv.org/abs/2412.19237#:~:text=Therefore%2C%20in%20this%20work%2C%20we%20propose%20SeaMo%2C%20a,multi-seasonal%20and%20multimodal%20information%20in%20the%20RS%20field." class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/danfenghong/Information_Fusion_SeaMo" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
     </div>
   </div>
 </div>
