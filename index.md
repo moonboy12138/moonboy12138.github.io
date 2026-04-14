@@ -9,7 +9,7 @@ Prior to UCAS, I obtained my B. Eng. degree in Information Engineering from the 
 
 
 ## Research Interests
-Currently, I am interested in Multimodal Foundation Models and Large Vision Foundation Models.
+Currently, I am interested in Representation Learning and Vision Foundation Models.
 
 {% include_relative _includes/projects.md %}
 
