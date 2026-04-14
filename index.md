@@ -13,6 +13,8 @@ Currently, I am interested in Representation Learning and Vision Foundation Mode
 
 {% include_relative _includes/projects.md %}
 
+{% include_relative _includes/chapter.md %}
+
 
 ## Education
 - 2023.09 - Present, PhD student, University of Chinese Academy of Sciences (UCAS)
