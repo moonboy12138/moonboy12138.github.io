@@ -21,7 +21,7 @@ Currently, I am interested in Representation Learning and Vision Foundation Mode
 - 2019.09 - 2023.07, B.E., University of Electronic Science and Technology of China (UESTC)
 
 ## Reviewer
-- Conference: ICCV, CVPR, NeurIPS, ECCV, AAAI, ECAI, etc.
+- Conference: ICCV, CVPR, NeurIPS, ECCV, AAAI, ACM MM, BMCV, ECAI, etc.
 - Journal: IEEE TGRS, IEEE TMM, IEEE TIP, etc.
 <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=300&t=tt&d=duRtRL1M3vKbQbv2gJxJ5ujEkeN9tCYEeOuSE7UuYVk&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
 
